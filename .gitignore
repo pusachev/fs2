@@ -1,5 +1,2 @@
-*
-!*.js
-!*.html
-!image/*.js
-!.gitignore
+*.txt
+image 
